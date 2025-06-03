@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+
+.tg {
+    border-radius: 30px;
+}
+
+li img {
+    width: 40px;
+}
+
+h1 img {
+    width: 40px;
+}
+
+li:hover {
+    color: #DA70D6;
+}
+
+.link-header {
+    border: 2px solid DarkTurquoise;
+    padding: 7px;
+    margin: 0 auto 0 auto;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+
+.link-header2 {
+    border: 2px solid DarkTurquoise;
+    padding: 7px;
+    margin: 0 auto 0 auto;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+}
+
+.draw {
+    float: left;
+    width: 500px;
+}
+
+.swim {
+    float: right;
+    width: 400px;
+}
+
+.travel {
+    float: right;
+    width: 400px;
+}
+
+.sait {
+    width: 900px;
+}
+
+nav {
+    margin: 30px;
+}
